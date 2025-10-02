@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # superstore_forecasting
-=======
 # Superstore Forecasting Project
 
 **Description:** Forecast monthly sales for a Superstore dataset using Python (Prophet & SARIMAX) and build a BI dashboard in Power BI.
